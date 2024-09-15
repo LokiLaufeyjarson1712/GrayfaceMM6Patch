@@ -1,0 +1,12 @@
+{
+	"name" : "GrayFace MM6 Patch",
+	"description" : "GrayFace MM6 Patch is an unofficial patch for MM6. It includes Mok's patch and Angel's patch. In addition to features like 'Always Run' and 'Flip On Exit' it adds quick saves, changing controls, playing MP3 tracks, double speed mode, mouse look and so on. It should run on new Windows versions without any problems (no need to set compatibility with Win 9x).",
+	"modType" : "Patch",
+	"author" : "GrayFace, Angel",
+	"contact" : "https://grayface.github.io/mm/",
+	"version" : "2.5.7",
+	"changelog" :
+	{
+		"2.5.7"   : [ "Initial release" ]
+	}
+}
